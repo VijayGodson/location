@@ -4,11 +4,10 @@
 <groupId>com.company</groupId>
 <artifactId>helloworld</artifactId>
 <packaging>jar</packaging>
-<version>1.0.2-SNAPSHOT</version>
+<version>1.0.3</version>
 <name>helloworld</name>
 
 <dependencies>
-
   <dependency>
     <groupId>junit</groupId>
     <artifactId>junit</artifactId>
@@ -30,7 +29,7 @@
 </properties>
 
 
-<distributionManagement>
+<!--<distributionManagement>
    <snapshotRepository>
       <id>nexus-snapshots</id>
       <url>http://172.31.10.118:8081/repository/snapshot/</url>
@@ -39,6 +38,6 @@
       <id>nexus-releases</id>
       <url>http://172.31.10.118:8081/repository/release/</url>
    </repository>
-</distributionManagement>
+</distributionManagement>-->
 
 </project>
