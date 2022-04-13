@@ -6,7 +6,6 @@
 <packaging>jar</packaging>
 <version>1.0.5-SNAPSHOT</version>
 <name>helloworld</name>
-
 <!--<dependencies>
   <dependency>
     <groupId>junit</groupId>
